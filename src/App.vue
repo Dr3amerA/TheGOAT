@@ -5,6 +5,7 @@ import HelloWorld from './components/HelloWorld.vue'
 
 <template>
   <h1> ΚΑΛΗΜΕΡΑΑΑΑΑΑΑΑΑΑ!</h1>
+  <img src="https://media.tenor.com/wsdvcQZYcoMAAAAC/flora-dyo.gif">
   <header>
     <img alt="Vue logo" class="logo" src="@/assets/logo.svg" width="125" height="125" />
 
